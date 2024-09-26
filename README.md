@@ -6,4 +6,5 @@
 5. All wallpapers are stored in a new directory called `images'
 
 **NOTES**
+
 The script accesses publicly available data, so not im not stealing anything.
