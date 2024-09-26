@@ -5,6 +5,5 @@
 3. Run `python wallp_parser_mkbhd.py`
 5. All wallpapers are stored in a new directory called `images'
 
-### Q: Aren't you stealing from artists by running this script?
-
-The script accesses publicly available media through the Panels app's own API. It doesn't do anything illegal.
+**NOTES**
+The script accesses publicly available data, so not im not stealing anything.
