@@ -7,4 +7,4 @@
 
 **NOTES**
 
-The script accesses publicly available data, so not im not stealing anything.
+The script accesses publicly available data, so no, im not stealing anything.
