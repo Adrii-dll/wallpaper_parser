@@ -62,6 +62,6 @@ def search_for_dhd_and_download_images(url):
     except requests.RequestException as e:
         print(f"Error fetching the webpage: {e}")
 
-# Example usage
-webpage_url = 'https://storage.googleapis.com/panels-api/data/20240916/media-1a-i-p~s'  # Replace with the URL of the webpage you want to parse
+
+webpage_url = 'https://storage.googleapis.com/panels-api/data/20240916/media-1a-i-p~s'
 search_for_dhd_and_download_images(webpage_url)
